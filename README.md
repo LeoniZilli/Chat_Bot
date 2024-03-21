@@ -10,6 +10,16 @@ Instale os requisitos abaixo e siga as Instruções para executar o Projeto.
 - <a href=https://nodejs.org/dist/v20.11.1/node-v20.11.1-x64.msi> Node</a>
 - <a href=https://www.npmjs.com/package/npm/v/10.2.4> NPM</a>
 
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
 # Status do projeto 
 🚧 Projeto em andamento 🚧
 
@@ -21,11 +31,11 @@ O Projeto consiste em um bot para whatsapp para realizr uma serie de perguntas p
 
 # :hammer: Instruções para instalação e execução do projeto
 
-`Dependencias: ` Instale o GIT e NODE de acordo com a documentação propria dos serviços.
+`Dependencias`: Instale o GIT e NODE de acordo com a documentação propria dos serviços.
 
-`Pasta: ` Crie uma nova pasta com o nome chat_bot;
+`Pasta`: Crie uma nova pasta com o nome chat_bot;
 
-`Terminal: ` Abra um terminal de sua preferência";
+`Terminal`: Abra um terminal de sua preferência";
 
 • Acesse a pasta criada
 
