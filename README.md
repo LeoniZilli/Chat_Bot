@@ -11,7 +11,7 @@ Instale os requisitos abaixo e siga as Instruções para executar o Projeto.
 • <a href=https://www.npmjs.com/package/npm/v/10.2.4> NPM</a> (Pode ser instalado juntamente com o Node)
 
 # Status do projeto 
-> :soon: Projeto em andamento :soon:
+> 🚧 Projeto em andamento :soon:
 
 
 # Descrição do projeto 
