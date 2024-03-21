@@ -8,7 +8,7 @@ Instale os requisitos abaixo e siga as Instruções para executar o Projeto.
 ## Dependências 
 - <a href=https://git-scm.com/download> Git</a>
 - <a href=https://nodejs.org/dist/v20.11.1/node-v20.11.1-x64.msi> Node</a>
-- <a href=https://www.npmjs.com/package/npm/v/10.2.4> NPM</a> (Pode ser instalado juntamente com o Node)
+- <a href=https://www.npmjs.com/package/npm/v/10.2.4> NPM</a>
 
 # Status do projeto 
 🚧 Projeto em andamento 🚧
@@ -21,10 +21,14 @@ O Projeto consiste em um bot para whatsapp para realizr uma serie de perguntas p
 
 # :hammer: Instruções para instalação e execução do projeto
 
-`Pasta: ` Após instalar o Git, crie uma nova pasta com o nome chat_bot;
+`Dependencias: ` Instale o GIT e NODE de acordo com a documentação propria dos serviços.
 
-`Terminal:`Abra um terminal de sua preferência e acesse a pasta "chat_bot";
+`Pasta: ` Crie uma nova pasta com o nome chat_bot;
 
-```
+`Terminal: ` Abra um terminal de sua preferência";
+
+• Acesse a pasta criada
+
+```bash
 cd chat_bot
 ```
