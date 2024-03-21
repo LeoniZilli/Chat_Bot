@@ -15,12 +15,12 @@ Instale os requisitos abaixo e siga as Instruções para executar o Projeto.
 > :soon: Projeto em andamento :soon:
 
 
-## Descrição do projeto 
+# Descrição do projeto 
 
 O Projeto consiste em um bot para whatsapp para realizr uma serie de perguntas para realizar a triagem de algum serviço.
 
 
-## :hammer: Instruções
+# :hammer: Instruções para instalação e execução do projeto
 
 `Pasta: ` Após instalar o Git, crie uma nova pasta com o nome chat_bot;
 
