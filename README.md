@@ -9,7 +9,7 @@ Instale os requisitos abaixo e siga as Instruções para executar o Projeto.
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [GIT](href=https://git-scm.com/download)
+- [Git](https://git-scm.com/download)
 - [Node.js](https://nodejs.org/dist/v20.11.1/node-v20.11.1-x64.msi/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
@@ -30,42 +30,24 @@ O Projeto consiste em um bot para whatsapp para realizr uma serie de perguntas p
 
 `Terminal`: Abra um terminal de sua preferência e siga os seguintes passos";
 
-• Acesse a pasta criada
-```bash
-cd chat_bot
-```
+• Acesse uma pasta sua de projetos
 
 • Clone o repositório dentro da pasta que foi criada
 ```bash
 git clone https://github.com/LeoniZilli/Chat_Bot.git
 ```
 
+• Acesse a pasta criada depois do clone
+```bash
+cd Chat_Bot
+```
+
 • Instale as dependências 
 ```bash
-cd chat_bot
+npm install
 ```
 
-• Acesse a pasta criada
+• Execute o arquivo index.js 
 ```bash
-cd chat_bot
-```
-
-• Acesse a pasta criada
-```bash
-cd chat_bot
-```
-
-• Acesse a pasta criada
-```bash
-cd chat_bot
-```
-
-• Acesse a pasta criada
-```bash
-cd chat_bot
-```
-
-• Acesse a pasta criada
-```bash
-cd chat_bot
+node index.js
 ```
