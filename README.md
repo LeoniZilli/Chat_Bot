@@ -5,20 +5,13 @@
 Instale os requisitos abaixo e siga as Instruções para executar o Projeto.
 `
 
-## Dependências 
-- <a href=https://git-scm.com/download> Git</a>
-- <a href=https://nodejs.org/dist/v20.11.1/node-v20.11.1-x64.msi> Node</a>
-- <a href=https://www.npmjs.com/package/npm/v/10.2.4> NPM</a>
-
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [GIT](href=https://git-scm.com/download)
+- [Node.js](https://nodejs.org/dist/v20.11.1/node-v20.11.1-x64.msi/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 # Status do projeto 
 🚧 Projeto em andamento 🚧
@@ -35,10 +28,44 @@ O Projeto consiste em um bot para whatsapp para realizr uma serie de perguntas p
 
 `Pasta`: Crie uma nova pasta com o nome chat_bot;
 
-`Terminal`: Abra um terminal de sua preferência";
+`Terminal`: Abra um terminal de sua preferência e siga os seguintes passos";
 
 • Acesse a pasta criada
+```bash
+cd chat_bot
+```
 
+• Clone o repositório dentro da pasta que foi criada
+```bash
+git clone https://github.com/LeoniZilli/Chat_Bot.git
+```
+
+• Instale as dependências 
+```bash
+cd chat_bot
+```
+
+• Acesse a pasta criada
+```bash
+cd chat_bot
+```
+
+• Acesse a pasta criada
+```bash
+cd chat_bot
+```
+
+• Acesse a pasta criada
+```bash
+cd chat_bot
+```
+
+• Acesse a pasta criada
+```bash
+cd chat_bot
+```
+
+• Acesse a pasta criada
 ```bash
 cd chat_bot
 ```
