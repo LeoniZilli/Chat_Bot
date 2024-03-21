@@ -53,5 +53,6 @@ node index.js
 No terminal irá aparacer um QRCode que você tera que ler com o celular qual será utilizado como bot.
 
 Exemplo:
-![image](https://github.com/LeoniZilli/Chat_Bot/assets/50502512/9af58f05-e725-40b8-b0fc-9a6f33591750)
+
+![Exemplo de QRCode](https://github.com/LeoniZilli/Chat_Bot/assets/50502512/9af58f05-e725-40b8-b0fc-9a6f33591750)
 
