@@ -24,13 +24,11 @@ O Projeto consiste em um bot para whatsapp para realizr uma serie de perguntas p
 
 # :hammer: Instruções para instalação e execução do projeto
 
-`Dependencias`: Instale o GIT e NODE de acordo com a documentação propria dos serviços.
+• Instale o GIT e NODE de acordo com a documentação propria dos serviços.
 
-`Pasta`: Crie uma nova pasta com o nome chat_bot;
+• Abra um terminal de sua preferência e siga os seguintes passos";
 
-`Terminal`: Abra um terminal de sua preferência e siga os seguintes passos";
-
-• Acesse uma pasta sua de projetos
+• Acesse uma pasta sua de projetos 📁 
 
 • Clone o repositório dentro da pasta que foi criada
 ```bash
@@ -51,3 +49,9 @@ npm install
 ```bash
 node index.js
 ```
+
+No terminal irá aparacer um QRCode que você tera que ler com o celular qual será utilizado como bot.
+
+Exemplo:
+![image](https://github.com/LeoniZilli/Chat_Bot/assets/50502512/9af58f05-e725-40b8-b0fc-9a6f33591750)
+
