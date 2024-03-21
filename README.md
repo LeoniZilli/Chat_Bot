@@ -54,5 +54,6 @@ No terminal irá aparacer um QRCode que você tera que ler com o celular qual se
 
 Exemplo:
 
-![Exemplo de QRCode](https://github.com/LeoniZilli/Chat_Bot/assets/50502512/9af58f05-e725-40b8-b0fc-9a6f33591750)
+![Sem título](https://github.com/LeoniZilli/Chat_Bot/assets/50502512/ec76a2dd-6885-4303-b869-6c52d91ca542)
 
+Apos isso você ira poder interagir com o bot 🤖 ...
